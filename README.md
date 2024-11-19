@@ -7,7 +7,7 @@
 ![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
 
 > [!IMPORTANT]
-> If you fork this project, consider giving it a star in the original repository!
+> If you fork this project, consider giving it a star in the original repository
 
 **Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
 
